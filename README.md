@@ -1,5 +1,6 @@
 # DRF1276G
-Test módulo LoRa DRF1276G
+Test módulo LoRa DRF1276G utilizando Micropython
+
 El DRF1276G se controla utilizando un módulo ESP32 (ESP32 DEVKIT V1 DOIT).
 Las conexiones se muestran a continuación:
 
