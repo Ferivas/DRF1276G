@@ -3,6 +3,8 @@ Test módulo LoRa DRF1276G
 El DRF1276G se controla utilizando un módulo ESP32 (ESP32 DEVKIT V1 DOIT).
 Las conexiones se muestran a continuación:
 
+<img width="1000" alt="Conexiones" src="https://github.com/Ferivas/DRF1276G/blob/main/DOCS/Conexiones.jpg">
+
 
 Los pines se pueden cambiar en el módulo controller_esp32.
 En este script se reciben datos por el puerto serial 2 del ESP32 (TX D17 y RX D13) que están marcados como 
